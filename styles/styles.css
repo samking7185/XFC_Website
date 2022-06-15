@@ -13,3 +13,9 @@
 .dropdown-toggle {
   outline: 0;
 }
+
+table {
+  padding-top: 30px;
+  border-collapse: separate!important;
+}
+
